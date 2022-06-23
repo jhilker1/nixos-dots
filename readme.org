@@ -1,0 +1,3 @@
+#+title: NixOS Dots
+
+My WIP Nixos dots
